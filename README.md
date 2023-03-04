@@ -1,3 +1,9 @@
+<div align="center">
+  <a rel="nofollow" href="https://github.com/l34-n/1.Algoritmos_e_Logica_da_Programacao/blob/main/puzz.gif">
+    <img width="20%" src="./puzz.gif">
+  </a>
+</div>
+
 <details>
   <summary><b>1. Estruturas Sequenciais</b></summary>
 <br/>

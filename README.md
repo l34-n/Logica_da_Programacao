@@ -54,6 +54,10 @@
 
 <p align='left'><b> 8. Temperatura </b> - Conversão de Temperatura Celsius / Fahrenheit.</p> 
 
+<p align='left'><b> 9. Lanchonete </b> - Cálculo de Produtos e Quantidade Comprada.</p> 
+
+<p align='left'><b> 10. Múltiplos </b> - Verificação de Multiplicidade entre dois números.</p> 
+
 </details>  
 
 <hr>

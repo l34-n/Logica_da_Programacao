@@ -67,3 +67,13 @@
 </details>  
 
 <hr>
+
+<details>
+  <summary><b>3. Estruturas de Repetição</b></summary>
+<br/>
+
+<p align='left'><b> 1. Crescente </b> - Pede dois números de entrada e indica a ordem. Se forem iguais, o programa encerra.</p> 
+
+</details>  
+
+<hr>

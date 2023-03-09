@@ -58,6 +58,12 @@
 
 <p align='left'><b> 10. Múltiplos </b> - Verificação de Multiplicidade entre dois números.</p> 
 
+<p align='left'><b> 11. Aumento </b> - Informa o valor aumentado, e a porcentagem.</p> 
+
+<p align='left'><b> 12. Tempo de Jogo </b> - Quantidade de Tempo de um Jogo.</p> 
+
+<p align='left'><b> 13. Coordenadas </b> - Informa o Quadrante das Coordenadas entre os Eixos X e Y.</p> 
+
 </details>  
 
 <hr>

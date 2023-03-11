@@ -74,6 +74,8 @@
 
 <p align='left'><b> 1. Crescente </b> - Pede dois números de entrada e indica a ordem. Se forem iguais, o programa encerra.</p> 
 
+<p align='left'><b> 2. Crescente </b> - Pede dois números de entrada e indica a ordem. Se forem iguais, o programa encerra.</p> 
+
 </details>  
 
 <hr>
